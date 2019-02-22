@@ -16,9 +16,9 @@ This is an exchange rate conversion software that helps you convert exchange rat
 ## How to install 
 ### requirement
 ### install
-####download the project
-####install using npm
-##How to use it
-###default currency conversion
-###modify the default currency
-###conversion of specified values
+#### download the project
+#### install using npm
+## How to use it
+### default currency conversion
+### modify the default currency
+### conversion of specified values
