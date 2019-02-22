@@ -12,14 +12,12 @@
   - [conversion of specified values](#conversion-of-specified-values)
 
 ## Introduction 
-![conversion](https://github.com/dz269375933/3-musketeers/blob/master/slides/dzlogo.jpg)
-
-This is an exchange rate conversion software that helps you convert exchange rates based on real-time exchange rates.             
+![conversion](https://github.com/dz269375933/3-musketeers/blob/master/slides/dzlogo.jpg)This is an exchange rate conversion software that helps you convert exchange rates based on real-time exchange rates.             
 ## How to install 
 ### requirement
 Since I only has a windows environment, this guide is based on windows command. If you are a Linux environment, you can refer to the corresponding instructions.
 
-####environment
+#### environment
 *windows system, npm, nodejs, git (optional)*
 
 If you don't know how to use npm and nodejs, you'd better search and install the environment first.Try some simple examples to help you use nodejs and npm.
@@ -33,7 +31,7 @@ Run the windows command line (windows + R and input 'cmd') and go to the directo
 ```
 Then the project will be automatically installed into the test folder (of course you can also modify the project path yourself).
 
-![gitSuccess](https://github.com/dz269375933/3-musketeers/blob/master/slides/gitSuccess.jpg)
+![gitSuccess](https://github.com/dz269375933/3-musketeers/blob/master/slides/gitSuccess.png)
 #### install using npm
 In the test directory, go to the crash directory.
 ```sh
@@ -49,7 +47,7 @@ Test if the project was successfully linked
 ```
 If successful, you will see the following
 
-![npmlinkSuccess](https://github.com/dz269375933/3-musketeers/blob/master/slides/npmlinkSuccess.jpg)
+![npmlinkSuccess](https://github.com/dz269375933/3-musketeers/blob/master/slides/npmlinkSuccess.png)
 
 ## How to use it
 ### default currency conversion
@@ -62,7 +60,7 @@ another way: In the blank space of the folder,Hold down shift and right click to
 ```
 You can see the following.
 
-![cashTest](https://github.com/dz269375933/3-musketeers/blob/master/slides/cashTest.jpg)
+![cashTest](https://github.com/dz269375933/3-musketeers/blob/master/slides/cashTest.png)
 
 ### modify the default currency
 If you want to modify your default currency, enter the following command at the command line (set to CNY)
@@ -71,13 +69,13 @@ If you want to modify your default currency, enter the following command at the 
 ```
 You can see the following.
 
-![cashSave](https://github.com/dz269375933/3-musketeers/blob/master/slides/cashSave.jpg)
+![cashSave](https://github.com/dz269375933/3-musketeers/blob/master/slides/cashSave.png)
 
 Enter the cash command again
 ```sh
 ❯ cash
 ```
-![cnyCash](https://github.com/dz269375933/3-musketeers/blob/master/slides/cnyCash.jpg)
+![cnyCash](https://github.com/dz269375933/3-musketeers/blob/master/slides/cnyCash.png)
 
 
 You can see that the default currency has been changed to CNY.
@@ -90,24 +88,18 @@ E.g:
 ```
 Here, I am changing the default currency to CNY, and changing the display currency to Euro. The result is as follows:
 
-![saveCnyEuro](https://github.com/dz269375933/3-musketeers/blob/master/slides/saveCnyEuro.jpg)
+![saveCnyEuro](https://github.com/dz269375933/3-musketeers/blob/master/slides/saveCnyEuro.png)
+
 The list of currencies that are temporarily supported for input is as follows. If the list is not included in the following list, the following error will occur.
 
-| currency |currency| currency | 
-| - | :-: | -: | 
-|NZD	|NOK	|BGN    |
-|CAD	|TRY	|SGD    |
-|MXN	|IDR	|RUB    |
-|AUD	|ZAR	|RON    |
-|CNY	|MYR	|CHF    |
-|PHP	|HKD	|DKK    |
-|GBP	|HUF	|INR    |
-|CZK	|ISK	|KRW    |
-|USD	|HRK	|THB    |
-|SEK	|JPY	|BRL    |
-|PLN	|ILS	|       |
+|NZD	|NOK	|BGN    |CAD	|TRY	|SGD    |
+|MXN	|IDR	|RUB    |AUD	|ZAR	|RON    |
+|CNY	|MYR	|CHF    |PHP	|HKD	|DKK    |
+|GBP	|HUF	|INR    |CZK	|ISK	|KRW    |
+|USD	|HRK	|THB    |SEK	|JPY	|BRL    |
+|PLN	|ILS	|       
 
-![error](https://github.com/dz269375933/3-musketeers/blob/master/slides/error.jpg)
+![error](https://github.com/dz269375933/3-musketeers/blob/master/slides/error.png)
 
 ### conversion of specified values
 You can also convert by entering a specified value and currency. 
@@ -118,7 +110,7 @@ E.g:
 ```
 Here, the currency of the first position (CNY) is converted into another currency, as shown below:
 
-![amountConvert](https://github.com/dz269375933/3-musketeers/blob/master/slides/amountConvert.jpg)
+![amountConvert](https://github.com/dz269375933/3-musketeers/blob/master/slides/amountConvert.png)
 
 You can also enter other currencies to convert.
 
