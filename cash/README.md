@@ -12,7 +12,9 @@
   - [conversion of specified values](#conversion-of-specified-values)
 
 ## Introduction 
-![conversion](https://github.com/dz269375933/3-musketeers/blob/master/slides/dzlogo.jpg)This is an exchange rate conversion software that helps you convert exchange rates based on real-time exchange rates.             
+![conversion](https://github.com/dz269375933/3-musketeers/blob/master/slides/dzlogo.jpg)
+
+This is an exchange rate conversion software that helps you convert exchange rates based on real-time exchange rates.             
 ## How to install 
 ### requirement
 Since I only has a windows environment, this guide is based on windows command. If you are a Linux environment, you can refer to the corresponding instructions.
@@ -92,6 +94,7 @@ Here, I am changing the default currency to CNY, and changing the display curren
 
 The list of currencies that are temporarily supported for input is as follows. If the list is not included in the following list, the following error will occur.
 
+| ----- | ----- | ----- | ----- | ----- | ----- |
 |NZD	|NOK	|BGN    |CAD	|TRY	|SGD    |
 |MXN	|IDR	|RUB    |AUD	|ZAR	|RON    |
 |CNY	|MYR	|CHF    |PHP	|HKD	|DKK    |
