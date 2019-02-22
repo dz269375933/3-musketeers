@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a0af848-33b2-4d89-88a4-658efb199a6f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/cash/bin/cash.js" beforeDir="false" afterPath="$PROJECT_DIR$/cash/bin/cash.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starwars/src/index.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/starwars/src/index.test.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,57 +15,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="cash.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cash/bin/cash.js">
+      <file leaf-file-name="sandbox.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/starwars/sandbox.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1482">
-              <caret line="78" column="37" selection-start-line="78" selection-start-column="37" selection-end-line="78" selection-end-column="37" />
+            <state relative-caret-position="114">
+              <caret line="6" column="48" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cash/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="380">
-                <caret line="80" selection-start-line="80" selection-end-line="80" />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="index.test.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/starwars/src/index.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cash/bin/index.js">
+        <entry file="file://$PROJECT_DIR$/starwars/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="28" column="75" selection-start-line="28" selection-start-column="75" selection-end-line="28" selection-end-column="75" />
+            <state relative-caret-position="228">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="currencies.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cash/lib/currencies.json">
+      <file leaf-file-name="starwars-names.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/starwars/src/starwars-names.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            <state relative-caret-position="167">
+              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="money.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cash/node_modules/money/money.js">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/starwars/node_modules/unique-random-array/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+            <state relative-caret-position="19">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="constants.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cash/bin/constants.js">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/starwars/node_modules/unique-random/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -73,6 +75,9 @@
     <findStrings>
       <find>%20</find>
       <find>jpg</find>
+      <find>luke</find>
+      <find>Ben</find>
+      <find>Ben Quadinaros</find>
     </findStrings>
     <replaceStrings>
       <replace>-</replace>
@@ -88,6 +93,7 @@
         <option value="$PROJECT_DIR$/cash/bin/index.js" />
         <option value="$PROJECT_DIR$/cash/README.md" />
         <option value="$PROJECT_DIR$/cash/bin/cash.js" />
+        <option value="$PROJECT_DIR$/starwars/src/index.test.js" />
       </list>
     </option>
   </component>
@@ -113,6 +119,7 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/cash/node_modules" />
+    <handled-path value="$PROJECT_DIR$/starwars/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
@@ -230,7 +237,7 @@
       <path value="$PROJECT_DIR$/starwars/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="683" />
@@ -265,6 +272,17 @@
               <item name="cash" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="3-musketeers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3-musketeers" type="462c0819:PsiDirectoryNode" />
+              <item name="starwars" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3-musketeers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3-musketeers" type="462c0819:PsiDirectoryNode" />
+              <item name="starwars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -278,6 +296,7 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/starwars/node_modules/jest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
@@ -294,7 +313,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Jest.starwars-names.random">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -313,6 +332,63 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="index.test.js" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$/starwars/src" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/starwars/src/index.test.js" />
+    </configuration>
+    <configuration name="starwars-names" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$/starwars/src" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/starwars/src/index.test.js" />
+      <test-names>
+        <test-name value="starwars-names" />
+      </test-names>
+    </configuration>
+    <configuration name="starwars-names.random" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$/starwars/src" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/starwars/src/index.test.js" />
+      <test-names>
+        <test-name value="starwars-names" />
+        <test-name value="random" />
+      </test-names>
+    </configuration>
+    <configuration name="starwars-names.random.should return a random item from the starWars.all" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$/starwars/src" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/starwars/src/index.test.js" />
+      <test-names>
+        <test-name value="starwars-names" />
+        <test-name value="random" />
+        <test-name value="should return a random item from the starWars.all" />
+      </test-names>
+    </configuration>
+    <configuration name="starwars-names.random.should return an array of random items if passed a number" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$/starwars/src" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/starwars/src/index.test.js" />
+      <test-names>
+        <test-name value="starwars-names" />
+        <test-name value="random" />
+        <test-name value="should return an array of random items if passed a number" />
+      </test-names>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -336,6 +412,22 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Jest.starwars-names.random.should return a random item from the starWars.all" />
+      <item itemvalue="Jest.starwars-names.random.should return an array of random items if passed a number" />
+      <item itemvalue="Jest.starwars-names" />
+      <item itemvalue="Jest.index.test.js" />
+      <item itemvalue="Jest.starwars-names.random" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.starwars-names.random" />
+        <item itemvalue="Jest.index.test.js" />
+        <item itemvalue="Jest.starwars-names" />
+        <item itemvalue="Jest.starwars-names.random.should return an array of random items if passed a number" />
+        <item itemvalue="Jest.starwars-names.random.should return a random item from the starWars.all" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -347,12 +439,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550825600074</updated>
-      <workItem from="1550825601824" duration="14819000" />
+      <workItem from="1550825601824" duration="19254000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="starwars-names_all_should_be_an_array_of_strings - 2019.02.23 at 00h 20m 38s.xml">
+      <configuration name="starwars-names.all.should be an array of strings" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="index_test_js - 2019.02.23 at 00h 20m 58s.xml">
+      <configuration name="index.test.js" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="starwars-names_all_should_contain_`Luke_Skywalker` - 2019.02.23 at 00h 39m 18s.xml">
+      <configuration name="starwars-names.all.should contain `Luke Skywalker`" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="starwars-names_all_should_not_contain_`Ben_Quadinaros` - 2019.02.23 at 00h 40m 30s.xml">
+      <configuration name="starwars-names.all.should not contain `Ben Quadinaros`" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="starwars-names_all_should_be_an_array_of_strings - 2019.02.23 at 00h 44m 48s.xml">
+      <configuration name="starwars-names.all.should be an array of strings" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="starwars-names_random_should_return_a_random_item_from_the_starWars_all - 2019.02.23 at 00h 46m 59s.xml">
+      <configuration name="starwars-names.random.should return a random item from the starWars.all" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14819000" />
+    <option name="totallyTimeSpent" value="19254000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -367,11 +479,11 @@
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32843137" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17473525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17473525" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -393,11 +505,26 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cash/node_modules/money/money.js">
+    <entry file="file://$PROJECT_DIR$/cash/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="399">
+            <caret line="81" selection-start-line="81" selection-end-line="81" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cash/bin/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+        <state relative-caret-position="304">
+          <caret line="28" column="75" selection-start-line="28" selection-start-column="75" selection-end-line="28" selection-end-column="75" />
         </state>
       </provider>
     </entry>
@@ -408,30 +535,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cash/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="380">
-            <caret line="80" selection-start-line="80" selection-end-line="80" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/cash/node_modules/money/money.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cash/bin/constants.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/cash/bin/index.js">
+    <entry file="file://$PROJECT_DIR$/starwars/sandbox.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="28" column="75" selection-start-line="28" selection-start-column="75" selection-end-line="28" selection-end-column="75" />
+        <state relative-caret-position="114">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cash/bin/cash.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1482">
-          <caret line="78" column="37" selection-start-line="78" selection-start-column="37" selection-end-line="78" selection-end-column="37" />
+        <state relative-caret-position="-1442">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/starwars/node_modules/unique-random/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/starwars/node_modules/unique-random-array/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/starwars/src/starwars-names.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/starwars/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/starwars/src/index.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
         </state>
       </provider>
     </entry>
