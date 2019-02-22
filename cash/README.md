@@ -55,10 +55,11 @@ If successful, you will see the following
 ### default currency conversion
 
 Open the command line in any directory and enter the following command.
-(First way:windows + R and input "cmd",
+
+(First way: windows + R and input "cmd",
 another way: In the blank space of the folder,Hold down shift and right click to open the command line here)
 ```sh
-❯ cash --help
+❯ cash
 ```
 You can see the following.
 
@@ -94,13 +95,15 @@ Here, I am changing the default currency to CNY, and changing the display curren
 
 The list of currencies that are temporarily supported for input is as follows. If the list is not included in the following list, the following error will occur.
 
-| ----- | ----- | ----- | ----- | ----- | ----- |
-|NZD	|NOK	|BGN    |CAD	|TRY	|SGD    |
+
+|currency|currency|currency|currency|currency|currency|
+| - | - | - | - | - | - |
+|	CNY|EUR	|BGN    |CAD	|TRY	|SGD    |
 |MXN	|IDR	|RUB    |AUD	|ZAR	|RON    |
-|CNY	|MYR	|CHF    |PHP	|HKD	|DKK    |
+|	NOK|MYR	|CHF    |PHP	|HKD	|DKK    |
 |GBP	|HUF	|INR    |CZK	|ISK	|KRW    |
 |USD	|HRK	|THB    |SEK	|JPY	|BRL    |
-|PLN	|ILS	|       
+|PLN	|ILS	|  NZD|     
 
 ![error](https://github.com/dz269375933/3-musketeers/blob/master/slides/error.png)
 
@@ -116,5 +119,7 @@ Here, the currency of the first position (CNY) is converted into another currenc
 ![amountConvert](https://github.com/dz269375933/3-musketeers/blob/master/slides/amountConvert.png)
 
 You can also enter other currencies to convert.
+
+That's all! Thank you!
 
 
