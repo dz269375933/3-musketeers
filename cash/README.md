@@ -114,7 +114,7 @@ E.g:
 ```sh
 ❯ cash -s 100 eur cny usd
 ```
-Here, the currency of the first position (CNY) is converted into another currency, as shown below:
+Here, the currency of the first position (EUR) is converted into another currency, as shown below:
 
 ![amountConvert](https://github.com/dz269375933/3-musketeers/blob/master/slides/amountConvert.png)
 
