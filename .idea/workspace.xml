@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a0af848-33b2-4d89-88a4-658efb199a6f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/cash/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cash/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cash/bin/cash.js" beforeDir="false" afterPath="$PROJECT_DIR$/cash/bin/cash.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cash/bin/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/cash/bin/index.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="cash.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cash/bin/cash.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="45" column="13" lean-forward="true" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cash/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="428">
+                <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cash/bin/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="currencies.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cash/lib/currencies.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="money.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cash/node_modules/money/money.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="constants.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cash/bin/constants.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cash/bin/cash.js" />
+        <option value="$PROJECT_DIR$/cash/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/cash/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/cash/node_modules/@sindresorhus/is/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/@szmarczak/http-timer/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/array-find-index/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/arrify/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/cacheable-request/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/camelcase-keys/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/cli-cursor/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/cli-spinners/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/clone-response/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/color-name/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/conf/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/currently-unhandled/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/decamelize-keys/node_modules/map-obj/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/decamelize-keys/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/decompress-response/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/defaults/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/defer-to-connect/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/dot-prop/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/duplexer3/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/end-of-stream/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/env-paths/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/error-ex/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/get-stream/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/got/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/hosted-git-info/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/http-cache-semantics/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/imurmurhash/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/indent-string/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/is-arrayish/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/is-obj/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/is-plain-obj/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/json-buffer/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/json-parse-better-errors/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/keyv/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/load-json-file/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/locate-path/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/log-symbols/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/log-symbols/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/loud-rejection/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/lowercase-keys/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/make-dir/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/map-obj/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/meow/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/mimic-fn/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/mimic-response/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/minimist-options/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/money/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/normalize-package-data/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/normalize-url/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/onetime/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/ora/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/p-cancelable/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/p-limit/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/p-locate/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/p-try/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/parse-json/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/path-parse/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/path-type/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/pkg-up/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/prepend-http/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/pump/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/quick-lru/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/read-pkg-up/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/read-pkg/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/redent/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/resolve/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/resolve/test/module_dir/zmodules/bbb/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/resolve/test/resolver/baz/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/resolve/test/resolver/browser_field/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/resolve/test/resolver/dot_main/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/resolve/test/resolver/dot_slash_main/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/resolve/test/resolver/incorrect_main/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/resolve/test/resolver/invalid_main/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/resolve/test/resolver/multirepo/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/resolve/test/resolver/multirepo/packages/package-a/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/resolve/test/resolver/multirepo/packages/package-b/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/responselike/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/restore-cursor/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/spdx-correct/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/spdx-exceptions/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/spdx-expression-parse/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/spdx-license-ids/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/strip-bom/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/strip-indent/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/to-readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/trim-newlines/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/url-parse-lax/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/validate-npm-package-license/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/wcwidth/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/write-file-atomic/package.json" />
+      <path value="$PROJECT_DIR$/cash/node_modules/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/cash/package.json" />
+      <path value="$PROJECT_DIR$/starwars/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="683" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="3-musketeers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3-musketeers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3-musketeers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3-musketeers" type="462c0819:PsiDirectoryNode" />
+              <item name="cash" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3-musketeers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3-musketeers" type="462c0819:PsiDirectoryNode" />
+              <item name="cash" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3-musketeers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3-musketeers" type="462c0819:PsiDirectoryNode" />
+              <item name="cash" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a0af848-33b2-4d89-88a4-658efb199a6f" name="Default" comment="" />
+      <created>1550825600074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550825600074</updated>
+      <workItem from="1550825601824" duration="4632000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4632000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17473525" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cash/node_modules/money/money.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cash/lib/currencies.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cash/bin/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cash/bin/constants.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cash/bin/cash.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="45" column="13" lean-forward="true" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cash/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="428">
+            <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

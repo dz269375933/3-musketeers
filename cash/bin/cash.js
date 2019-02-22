@@ -30,10 +30,17 @@ const cash = async command => {
 	}).then(response => {
 		money.base = response.body.base;
 		money.rates = response.body.rates;
-
 		to.forEach(item => {
 			if (currencies[item]) {
-				loading.succeed(`${chalk.green(money.convert(amount, {from, to: item}).toFixed(3))} ${`(${item})`} ${currencies[item]}`);
+			    // console.log(amount);
+			    // console.log({from, to: item});
+                try {
+                    loading.succeed(`${chalk.green(money.convert(amount, {from, to: item}).toFixed(3))} ${`(${item})`} ${currencies[item]}`);
+
+                }catch (e) {
+                    loading.warn(`${chalk.yellow(`The "${item}" currency not found `)}`);
+                }
+
 			} else {
 				loading.warn(`${chalk.yellow(`The "${item}" currency not found `)}`);
 			}
